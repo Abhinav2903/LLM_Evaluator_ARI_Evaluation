@@ -1,0 +1,13 @@
+judge,prompt,ari,metric_kind,swap_flip_rate,flips_count,n_pairs_strict
+gpt-3,baseline,5,rank,0.5396419437340153,211,391
+gpt-3,baseline,9,rank,0.40153452685422,157,391
+gpt-3,baseline,14,rank,0.7468030690537084,292,391
+gpt-3,cot,5,rank,0.24552429667519182,96,391
+gpt-3,cot,9,rank,0.17647058823529413,69,391
+gpt-3,cot,14,rank,0.49104859335038364,192,391
+llama-3-70b,baseline,5,rank,0.319693094629156,125,391
+llama-3-70b,baseline,9,rank,0.49230769230769234,192,390
+llama-3-70b,baseline,14,rank,0.38618925831202044,151,391
+llama-3-70b,cot,5,rank,0.0,0,337
+llama-3-70b,cot,9,rank,0.019553072625698324,7,358
+llama-3-70b,cot,14,rank,0.10236220472440945,39,381
